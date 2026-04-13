@@ -1,6 +1,6 @@
-﻿namespace JWTAuthentication.NET10._0.Auth
+﻿namespace Login.Dto
 {
-    public static class UserRoles
+    public class UserRoleDto
     {
         public const string Admin = "Admin";
         public const string Teacher = "Teacher";
